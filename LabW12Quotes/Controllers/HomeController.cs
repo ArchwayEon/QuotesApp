@@ -5,9 +5,9 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
-using LabW12Quotes.Models;
+using QuotesApp.Models;
 
-namespace LabW12Quotes.Controllers
+namespace QuotesApp.Controllers
 {
    public class HomeController : Controller
    {

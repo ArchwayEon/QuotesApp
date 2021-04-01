@@ -1,6 +1,6 @@
 using System;
 
-namespace LabW12Quotes.Models
+namespace QuotesApp.Models
 {
    public class ErrorViewModel
    {

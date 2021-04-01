@@ -1,4 +1,4 @@
-using LabW12Quotes.Services;
+using QuotesApp.Services;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.EntityFrameworkCore;
@@ -6,7 +6,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 
-namespace LabW12Quotes
+namespace QuotesApp
 {
    public class Startup
    {

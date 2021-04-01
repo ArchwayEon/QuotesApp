@@ -1,4 +1,4 @@
-﻿namespace LabW12Quotes.Models.Entities
+﻿namespace QuotesApp.Models.Entities
 {
    public class Quote
    {
